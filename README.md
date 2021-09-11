@@ -1,4 +1,2 @@
 # PlayScripts
-Code made when bored.
-
-language: Python
+Experimenting on consepts and mini-projects.
