@@ -1,2 +1,2 @@
 # PlayScripts
-Experimenting on consepts and mini-projects.
+Experimenting on concepts and mini-projects.
